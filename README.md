@@ -1,6 +1,6 @@
-🩺 Diabetes Prediction using Machine Learning
+ Diabetes Prediction using Machine Learning
 
-📌 Project Overview
+. Project Overview
 
 This project is a Machine Learning classification model that predicts whether a person is likely to have diabetes based on medical diagnostic data.
 
